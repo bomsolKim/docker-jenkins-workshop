@@ -6,5 +6,5 @@ get '/' do
 end
 
 get '/hello' do
-  'world_bomsol'
+  'world_bomsol_test2'
 end
